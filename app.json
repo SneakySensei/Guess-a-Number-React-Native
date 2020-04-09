@@ -24,6 +24,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Choose a number and the computer will guess it for you!\n\nMy very first use of Dimensions API, effect hook, Alerts, custom fonts, Keyboard API, KeyboardAvoidingView, and Orientation API (however I stuck with Dimensions API, in the end, to make my app landscape compatible)"
+    "description": "Choose a number and the computer will guess it for you!\n\nMy very first use of Dimensions API, effect hook, Alerts, custom fonts, Keyboard API, KeyboardAvoidingView, and Orientation API (however I stuck with Dimensions API, in the end, to make my app landscape compatible)",
+    "githubUrl": "https://github.com/sneakySensei/Guess-a-Number-React-Native"
   }
 }
