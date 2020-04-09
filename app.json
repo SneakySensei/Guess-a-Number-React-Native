@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Guess A Number",
+    "slug": "guess-a-number",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Choose a number and the computer will guess it for you!\n\nMy very first use of Dimensions API, effect hook, Alerts, custom fonts, Keyboard API, KeyboardAvoidingView, and Orientation API (however I stuck with Dimensions API, in the end, to make my app landscape compatible)"
+  }
+}
